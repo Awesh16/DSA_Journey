@@ -1,19 +1,23 @@
-import sys
-
-# Increase recursion depth just in case (optional, but helps with deep recursion)
-sys.setrecursionlimit(2000)
-
 class Solution:
     def myPow(self, x: float, n: int) -> float:
-        # Base case
+        # Base Case
         if n == 0:
             return 1
         
-        # Fix for negative numbers:
-        # If n is negative, we use 1/x and make n positive
+        # 1. Handle Negative Numbers
+        # If n is negative, flip x to 1/x and make n positive
         if n < 0:
             return self.myPow(1/x, -n)
-
-        # Your original method
-        p = x * self.myPow(x, n - 1)
-        return p
+        
+        # 2. Divide and Conquer
+        # Calculate the result for half of n
+        half = self.myPow(x, n // 2)
+        
+        # 3. Combine the results
+        if n % 2 == 0:
+            # If n is even: x^10 = x^5 * x^5
+            return half * half
+        else:
+            # If n is odd: x^11 = x * (x^5 * x^5)
+            # The extra 'x' accounts for the remainder we lost in integer division
+            return x * half * half
