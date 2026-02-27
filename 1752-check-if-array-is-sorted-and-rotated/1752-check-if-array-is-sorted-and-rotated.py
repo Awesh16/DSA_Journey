@@ -1,17 +1,9 @@
 class Solution:
     def check(self, nums: List[int]) -> bool:
-        k=list()
-        k=nums.copy()
-        nums.sort()
-        l=0
-        while(l<=len(nums)):
-            n=list()
-            n=nums[l:]+nums[:l]
-            if(n==k):
-                return True
-            l+=1
-        return False
-
-
-
+        k=0
+        for i in range(0,len(nums)):
+            if(nums[i]>nums[(i+1)%len(nums)]):
+                k+=1
+        return k<=1
         
+            
