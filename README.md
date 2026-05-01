@@ -13,6 +13,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/Awesh16/DSA_Journey/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/Awesh16/DSA_Journey/tree/main/0860-lemonade-change/) | Easy |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Awesh16/DSA_Journey/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -30,6 +31,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/Awesh16/DSA_Journey/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/Awesh16/DSA_Journey/tree/main/0860-lemonade-change/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
