@@ -18,6 +18,7 @@
 | [0137-single-number-ii](https://github.com/Awesh16/DSA_Journey/tree/main/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Awesh16/DSA_Journey/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/Awesh16/DSA_Journey/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Awesh16/DSA_Journey/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0455-assign-cookies](https://github.com/Awesh16/DSA_Journey/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/Awesh16/DSA_Journey/tree/main/0860-lemonade-change/) | Easy |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Awesh16/DSA_Journey/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
@@ -32,6 +33,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Awesh16/DSA_Journey/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0455-assign-cookies](https://github.com/Awesh16/DSA_Journey/tree/main/0455-assign-cookies/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -59,6 +61,7 @@
 | [0191-number-of-1-bits](https://github.com/Awesh16/DSA_Journey/tree/main/0191-number-of-1-bits/) | Easy |
 | [0260-single-number-iii](https://github.com/Awesh16/DSA_Journey/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/Awesh16/DSA_Journey/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Awesh16/DSA_Journey/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Awesh16/DSA_Journey/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -73,6 +76,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Awesh16/DSA_Journey/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Awesh16/DSA_Journey/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
