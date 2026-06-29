@@ -56,6 +56,7 @@
 | [0136-single-number](https://github.com/Awesh16/DSA_Journey/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Awesh16/DSA_Journey/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/Awesh16/DSA_Journey/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Awesh16/DSA_Journey/tree/main/0191-number-of-1-bits/) | Easy |
 | [0260-single-number-iii](https://github.com/Awesh16/DSA_Journey/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/Awesh16/DSA_Journey/tree/main/0268-missing-number/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Awesh16/DSA_Journey/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
@@ -80,4 +81,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/Awesh16/DSA_Journey/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Awesh16/DSA_Journey/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
