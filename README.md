@@ -13,6 +13,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Awesh16/DSA_Journey/tree/main/0055-jump-game/) | Medium |
+| [0078-subsets](https://github.com/Awesh16/DSA_Journey/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Awesh16/DSA_Journey/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Awesh16/DSA_Journey/tree/main/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Awesh16/DSA_Journey/tree/main/0260-single-number-iii/) | Medium |
@@ -51,6 +52,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Awesh16/DSA_Journey/tree/main/0029-divide-two-integers/) | Medium |
+| [0078-subsets](https://github.com/Awesh16/DSA_Journey/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Awesh16/DSA_Journey/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Awesh16/DSA_Journey/tree/main/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Awesh16/DSA_Journey/tree/main/0260-single-number-iii/) | Medium |
@@ -69,4 +71,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Awesh16/DSA_Journey/tree/main/0268-missing-number/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Awesh16/DSA_Journey/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
