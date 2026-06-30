@@ -14,6 +14,7 @@
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Awesh16/DSA_Journey/tree/main/0055-jump-game/) | Medium |
 | [0078-subsets](https://github.com/Awesh16/DSA_Journey/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Awesh16/DSA_Journey/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Awesh16/DSA_Journey/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Awesh16/DSA_Journey/tree/main/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Awesh16/DSA_Journey/tree/main/0260-single-number-iii/) | Medium |
@@ -55,6 +56,7 @@
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Awesh16/DSA_Journey/tree/main/0029-divide-two-integers/) | Medium |
 | [0078-subsets](https://github.com/Awesh16/DSA_Journey/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Awesh16/DSA_Journey/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Awesh16/DSA_Journey/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Awesh16/DSA_Journey/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/Awesh16/DSA_Journey/tree/main/0190-reverse-bits/) | Easy |
@@ -81,6 +83,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Awesh16/DSA_Journey/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Awesh16/DSA_Journey/tree/main/0090-subsets-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
