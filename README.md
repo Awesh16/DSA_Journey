@@ -37,6 +37,7 @@
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Awesh16/DSA_Journey/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0455-assign-cookies](https://github.com/Awesh16/DSA_Journey/tree/main/0455-assign-cookies/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Awesh16/DSA_Journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,4 +101,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Awesh16/DSA_Journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Awesh16/DSA_Journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
