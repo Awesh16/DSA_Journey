@@ -9,6 +9,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Awesh16/DSA_Journey/tree/main/0020-valid-parentheses/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/Awesh16/DSA_Journey/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@
 | [0002-add-two-numbers](https://github.com/Awesh16/DSA_Journey/tree/main/0002-add-two-numbers/) | Medium |
 | [0029-divide-two-integers](https://github.com/Awesh16/DSA_Journey/tree/main/0029-divide-two-integers/) | Medium |
 | [0268-missing-number](https://github.com/Awesh16/DSA_Journey/tree/main/0268-missing-number/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/Awesh16/DSA_Journey/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +110,7 @@
 | [0002-add-two-numbers](https://github.com/Awesh16/DSA_Journey/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Awesh16/DSA_Journey/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Awesh16/DSA_Journey/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/Awesh16/DSA_Journey/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Awesh16/DSA_Journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
