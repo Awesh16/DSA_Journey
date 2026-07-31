@@ -13,6 +13,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/Awesh16/DSA_Journey/tree/main/0027-remove-element/) | Easy |
 | [0055-jump-game](https://github.com/Awesh16/DSA_Journey/tree/main/0055-jump-game/) | Medium |
 | [0078-subsets](https://github.com/Awesh16/DSA_Journey/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Awesh16/DSA_Journey/tree/main/0090-subsets-ii/) | Medium |
@@ -36,6 +37,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/Awesh16/DSA_Journey/tree/main/0027-remove-element/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Awesh16/DSA_Journey/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0455-assign-cookies](https://github.com/Awesh16/DSA_Journey/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Awesh16/DSA_Journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
