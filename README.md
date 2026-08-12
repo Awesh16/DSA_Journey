@@ -38,6 +38,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Awesh16/DSA_Journey/tree/main/0027-remove-element/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Awesh16/DSA_Journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Awesh16/DSA_Journey/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0455-assign-cookies](https://github.com/Awesh16/DSA_Journey/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Awesh16/DSA_Journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -81,6 +82,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Awesh16/DSA_Journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0268-missing-number](https://github.com/Awesh16/DSA_Journey/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -110,6 +112,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Awesh16/DSA_Journey/tree/main/0002-add-two-numbers/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Awesh16/DSA_Journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Awesh16/DSA_Journey/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Awesh16/DSA_Journey/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Awesh16/DSA_Journey/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -119,4 +122,8 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Awesh16/DSA_Journey/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Awesh16/DSA_Journey/tree/main/0206-reverse-linked-list/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Awesh16/DSA_Journey/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
