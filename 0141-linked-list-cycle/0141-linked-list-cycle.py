@@ -6,18 +6,19 @@
 
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        from collections import defaultdict
-        d=defaultdict(int)
-        curr=head
+        temp=head
+        p1=head
+        p2=head
         yes=False
-        while(curr!=None):
-            d[curr]+=1
-            if(d[curr]>1):
+        while(p2!=None and p2.next!=None):
+            p1=p1.next
+            p2=p2.next.next
+            if(p1==p2):
                 yes=True
                 break
-            curr=curr.next
         if(yes):
             return True
         else:
             return False
+
         
