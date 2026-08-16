@@ -38,6 +38,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Awesh16/DSA_Journey/tree/main/0027-remove-element/) | Easy |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Awesh16/DSA_Journey/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Awesh16/DSA_Journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Awesh16/DSA_Journey/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Awesh16/DSA_Journey/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -115,6 +116,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Awesh16/DSA_Journey/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Awesh16/DSA_Journey/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Awesh16/DSA_Journey/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Awesh16/DSA_Journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Awesh16/DSA_Journey/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Awesh16/DSA_Journey/tree/main/0206-reverse-linked-list/) | Easy |
