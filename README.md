@@ -23,6 +23,7 @@
 | [0260-single-number-iii](https://github.com/Awesh16/DSA_Journey/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/Awesh16/DSA_Journey/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Awesh16/DSA_Journey/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/Awesh16/DSA_Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Awesh16/DSA_Journey/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/Awesh16/DSA_Journey/tree/main/0860-lemonade-change/) | Easy |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Awesh16/DSA_Journey/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
@@ -48,6 +49,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Awesh16/DSA_Journey/tree/main/0055-jump-game/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/Awesh16/DSA_Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Awesh16/DSA_Journey/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/Awesh16/DSA_Journey/tree/main/0860-lemonade-change/) | Easy |
 ## Sorting
@@ -55,11 +57,13 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Awesh16/DSA_Journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/Awesh16/DSA_Journey/tree/main/0268-missing-number/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/Awesh16/DSA_Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Awesh16/DSA_Journey/tree/main/0455-assign-cookies/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Awesh16/DSA_Journey/tree/main/0055-jump-game/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/Awesh16/DSA_Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
